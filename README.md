@@ -1,5 +1,7 @@
 # Lewis Bertin
 
+**Golden Kubestronaut** (CNCF): holder of every CNCF certification, plus LFCS.
+
 Founder of **Tactiqual**, an IT services company working with clients in the
 space and industrial sectors: cloud-native platforms, secure software delivery
 and geospatial data services.

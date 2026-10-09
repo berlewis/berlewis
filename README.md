@@ -14,12 +14,14 @@ and geospatial data services.
   search, tasking and ordering across commercial providers
 - **Go** services and developer tooling
 
-## Open source focus
+## Open source
 
-- Kubernetes & CNCF documentation (SIG Docs, TAG docs)
-- [kubernetes-sigs/wg-ai-gateway](https://github.com/kubernetes-sigs/wg-ai-gateway)
-- [STAC](https://github.com/radiantearth/stac-spec) and
-  [STAPI](https://github.com/stapi-spec) specifications
+- **French localization** of the [Kubernetes](https://kubernetes.io/fr/docs/) and
+  [Helm](https://helm.sh/fr/docs/) documentation, plus French UI strings in
+  Headlamp, Harbor and Grafana Pathfinder
+- **Helm charts**: Argo CD Core support in argo-helm, a MinIO fix in the
+  La Suite numérique dev chart
+- **Docs and dashboards**: Fluentd, llm-d, Strimzi Kafka dashboards
 
 ## Contact
 

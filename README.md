@@ -18,7 +18,7 @@ and geospatial data services.
 
 - **French localization** of the [Kubernetes](https://kubernetes.io/fr/docs/) and
   [Helm](https://helm.sh/fr/docs/) documentation, plus French UI strings in
-  Headlamp, Harbor and Grafana Pathfinder
+  Headlamp, Harbor, Keycloak and Grafana Pathfinder
 - **Helm charts**: Argo CD Core support in argo-helm, a MinIO fix in the
   La Suite numérique dev chart
 - **Docs and dashboards**: Fluentd, llm-d, Strimzi Kafka dashboards
